@@ -5,6 +5,7 @@
     <meta charset="utf-8" />
     <link href="./style.css" rel="stylesheet" />
     <title>Pondrr | Home</title>
+    <link rel="icon" href="./img/logo.ico"/>
   </head>
   <body>
     <div class="headerMenu">
