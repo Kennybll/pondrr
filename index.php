@@ -1,3 +1,4 @@
+<!-- MAIN PHP FILE -->
 <!DOCTYPE html>
 <html>
   <head>
